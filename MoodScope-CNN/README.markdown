@@ -9,7 +9,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify ima
 
 ---
 
-## Project Structure
+## Project Structures
 
 ### Directory Layout
 The dataset is organized into the following structure:
